@@ -1,0 +1,15 @@
+{
+  "name": "PWA Template",
+  "start_url": "/",
+  "theme_color": "#ddd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c1c1c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "600x600",
+      "type": "image/png"
+    }
+  ]
+}
